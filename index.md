@@ -14,9 +14,10 @@
 
 <h3>不感兴趣的</h3>
 *   <a href="https://github.com/Fish-LP/Fish-LP.github.io" title="github" >github仓库</a>  
+*   <a href="/game/minesweeper" title="minesweeper" >扫雷</a>  
 
 <h2>#测试地带</h2>
-#错别字什么的太烦了#
+#错别字什么的太烦了#minesweeper
 ![](https://komarev.com/ghpvc/?username=Fish-LP&color=green)
 
 
