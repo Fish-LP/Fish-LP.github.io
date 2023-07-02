@@ -10,13 +10,13 @@
 *   <a href="/game/^3" title="^3" >^3</a>
 *   <a href="/game/%E6%A2%97%E5%B1%B1%E6%B1%82%E5%8D%87V1.2" title="梗山求升" >梗山求升</a>
 *   <a href="/game/ikunn%E6%89%93%E7%AF%AE%E7%90%83" title="ikunn打篮球" >ikun plays basketball</a>
-*   <a href="/game/ARENA" title="ARENA" >ARENA(竞技场)</a>
+*   <a href="/game/ANENA" title="ARENA" >ARENA(竞技场)</a>
 
 <h3>不感兴趣的</h3>
 *   <a href="https://github.com/Fish-LP/Fish-LP.github.io" title="github" >github仓库</a>  
 
 <h2>#测试地带</h2>
-
+//错别字什么的太烦了
 
 
 
