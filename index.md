@@ -1,3 +1,4 @@
+<html lang="zh-CN" color-mode=light>
 Welcome
 
 你可能感兴趣的
