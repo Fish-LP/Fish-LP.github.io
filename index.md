@@ -18,8 +18,7 @@
 *   <a href="/game/minesweeper" title="minesweeper" >扫雷</a>  
 
 <h2>#测试地带</h2>
-#错别字什么的太烦了#
-
+##错别字什么的太烦了##
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
