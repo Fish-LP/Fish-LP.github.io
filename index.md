@@ -16,13 +16,15 @@
 <h3>不感兴趣的</h3>
 *   <a href="https://github.com/Fish-LP/Fish-LP.github.io" title="github" >github仓库</a>  
 *   <a href="/game/minesweeper" title="minesweeper" >扫雷</a>  
+*   <a href="/game/Bad_Apple_Video_playback" title="ARENA" >Bad Apple</a>
 
 <h2>#测试地带</h2>
 ![](https://komarev.com/ghpvc/?username=Fish-LP&color=green&style=plastic)<br>
 ##错别字什么的太烦了##
 
 
-<h2>计划加入联机游戏</h2>
+<h2>计划</h2>
+*  加入联机游戏
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
