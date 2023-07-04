@@ -14,7 +14,7 @@
 <h2>Welcome</h2>
 <h3>公告</h3>
 *   本站的访问数据![](https://komarev.com/ghpvc/?username=Fish-LP&color=green&style=plastic)
-*   加入联机游戏⌬PvP Arena⌬(MAX PLAYER=8)
+*   加入联机游戏⌬PvP Arena⌬(MAX PLAYER=20)
 
 <h3>你可能感兴趣的</h3>
 *   <a href="/game/%E5%A4%A9%E5%A0%82%E8%A7%92%EF%BC%9A%E5%92%96%E5%95%A1%E5%B1%8B" title="天堂角：咖啡屋" >天堂角：咖啡屋</a>
@@ -31,7 +31,7 @@
 
 <h2>#测试地带</h2>
 *   <a href="/game/%E2%8C%AC_PvP_Arena_%E2%98%81_Online_%E2%98%81_Shooter_%E2%8C%AC" title="⌬_PvP_Arena_☁_Online_☁_Shooter_⌬" >⌬_PvP_Arena_☁_Online_☁_Shooter_⌬</a>
-*   <a href="/tools/DDNet%E6%9F%A5%E8%AF%A2" title="DDNet查询" >DDNet查询</a>  
+*   <a href="/tools/DDNet%E6%9F%A5%E8%AF%A2" title="DDNet查询" >DDNet查询</a>(但是很慢，还不如去官网![DDNet官网查询](https://ddnet.org/players/))
 
 <h2>计划</h2>
 *  没有
