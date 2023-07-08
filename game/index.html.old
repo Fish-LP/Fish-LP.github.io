@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="3;url=https://fish-lp.github.io">
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>你被骗了，后退一步</title>
+<style>
+body{
+  background-color: black;
+  }
+
+.Circle {
+  position: absolute;
+  background-color: Transparent;
+  width: calc(var(--i) * 18px);
+  aspect-ratio: 1;
+  border: 5px solid rgb(0, 200, 255);
+  border-radius:50%;
+  transform:rotatex(70deg);
+  animation:move 3s ease-in-out infinite;
+}
+
+.Circle{
+  animation:move 3s ease-in-out infinite;
+  }
+
+@keyframes move{
+  0%,100%{
+    transform: rotatex(70deg) translatey;
+    filter: hue-rotate(0deg);
+    }
+  50%{
+    transform:rotatex(70deg) translatey(-35vw);
+    filter: hue-rotate(180deg);
+    }
+ }
+
+.Circle{
+  animation:move 3s ease-in-out calc(var(--i) * 0.09s) infinite;
+  }
+
+.Card {
+  height:500px;
+  border-radius:30px;
+  position: relative;
+  display: flex;
+  margin-top:30%;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(1px);
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+
+</style>
+</head>
+<body>
+
+<dov class="Card">
+  <div class="Circle" style="--i:0;"></div>
+  <div class="Circle" style="--i:1;"></div>
+  <div class="Circle" style="--i:2;"></div>
+  <div class="Circle" style="--i:3;"></div>
+  <div class="Circle" style="--i:4;"></div>
+  <div class="Circle" style="--i:5;"></div>
+  <div class="Circle" style="--i:6;"></div>
+  <div class="Circle" style="--i:7;"></div>
+  <div class="Circle" style="--i:8;"></div>
+  <div class="Circle" style="--i:9;"></div>
+  <div class="Circle" style="--i:10;"></div>
+  <div class="Circle" style="--i:11;"></div>
+  <div class="Circle" style="--i:12;"></div>
+  <div class="Circle" style="--i:13;"></div>
+  <div class="Circle" style="--i:14;"></div>
+  <div class="Circle" style="--i:15;"></div>
+  <div class="Circle" style="--i:16;"></div>
+  <div class="Circle" style="--i:17;"></div>
+  <div class="Circle" style="--i:18;"></div>
+  <div class="Circle" style="--i:19;"></div>
+  <div class="Circle" style="--i:20;"></div>
+  <div class="Circle" style="--i:21;"></div>
+</div>
+</body>
+  </html>
