@@ -42,4 +42,11 @@
 *  <a href="/game/" title="minesweeper" >好看的</a>  
 
 <h2>计划</h2>
-*  添加更多游戏
+*   添加更多游戏
+*   Pie Solar 2 MD2
+*   [CxG1]Mirror jump
+*   CatGPT
+*   slither.io v1.13 (#1)
+*   火柴人打羽毛球[3D版]
+*   稽何计算器plus+
+*   发送邮件到【Fish.zh@outlook.com】如果人多会加(因为懒)
