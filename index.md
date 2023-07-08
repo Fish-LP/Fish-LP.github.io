@@ -13,7 +13,7 @@
 
 <h2>Welcome</h2>
 <h3>公告</h3>
-*   [本站的访问数据![](https://komarev.com/ghpvc/?username=Fish-LP&color=green&style=plastic)](https://komarev.com/ghpvc/?username=Fish-LP&color=green&style=flat-square&label=%20%E8%AE%BF%E9%97%AE%E6%AC%A1%E6%95%B0%20%20)
+*   ![](https://komarev.com/ghpvc/?username=Fish-LP&color=green&style=flat-square&label=  本站的访问次数  )
 *   加入联机游戏Among_us
 *   没有bug！
 *   没有bug！！
