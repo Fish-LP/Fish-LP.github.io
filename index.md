@@ -15,9 +15,6 @@
 <h3>公告</h3>
 *   ![](https://komarev.com/ghpvc/?username=Fish-LP&color=green&style=flat-square&label=%20%20%E6%9C%AC%E7%AB%99%E7%9A%84%E8%AE%BF%E9%97%AE%E6%AC%A1%E6%95%B0%20%20%20%20%20)
 *   加入联机游戏Among_us
-*   没有bug！
-*   没有bug！！
-*   没有bug！！！
 
 <h3>你可能感兴趣的</h3>
 *   <a href="/game/Among_us" title="Among us" >Among us</a>  
@@ -41,7 +38,6 @@
 *  <a href="/game/" title="minesweeper" >好看的</a>  
 
 <h2>计划</h2>
-*   添加更多游戏
 *   Pie Solar 2 MD2
 *   [CxG1]Mirror jump
 *   CatGPT
@@ -49,3 +45,7 @@
 *   火柴人打羽毛球[3D版]
 *   稽何计算器plus+
 *   发送邮件到【Fish.zh@outlook.com】告诉我要什么如果人多会加(因为懒)
+
+<h2>联系</h2>
+*   Fish.zh@outlook.com
+*   有问题发这里或者github，看到了会尽快解决(大部分时间不在github)
