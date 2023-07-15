@@ -1,5 +1,6 @@
 <html lang="zh-CN" color-mode=light>
 <heard>
+<link rel="icon" href="icon/terminal_sharp_icon.svg">
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
