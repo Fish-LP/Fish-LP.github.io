@@ -37,6 +37,7 @@
 *   ikun plays basketball(game/ikunn%E6%89%93%E7%AF%AE%E7%90%83)
 
 <h2>#测试地带</h2>
+*   <a href="测试/Home/index.jsx" title="new home">new home</a>
 *   <a href="tools/ws工具.html" title="ws工具">ws工具</a>
 *   <a href="tools/ddnet服务器信息" title="ddnet服务器信息">ddnet服务器信息</a>
 *   <a href="/game/" title="minesweeper" >好看的</a>  
