@@ -1,6 +1,7 @@
 <html lang="zh-CN" color-mode=light>
 <heard>
-<link rel="icon" href="icon/terminal_sharp_icon.svg">
+<title>Fish的小破站</title>
+<link rel="icon" href="/icon/terminal_sharp_icon.svg">
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -36,7 +37,9 @@
 *   ikun plays basketball(game/ikunn%E6%89%93%E7%AF%AE%E7%90%83)
 
 <h2>#测试地带</h2>
-*  <a href="/game/" title="minesweeper" >好看的</a>  
+*   <a href="tools/ws工具.html" title="ws工具">ws工具</a>
+*   <a href="tools/ddnet服务器信息" title="ddnet服务器信息">ddnet服务器信息</a>
+*   <a href="/game/" title="minesweeper" >好看的</a>  
 
 <h2>计划</h2>
 *   Pie Solar 2 MD2
