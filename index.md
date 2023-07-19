@@ -19,6 +19,7 @@
 *   加入联机游戏Among_us
 
 <h3>你可能感兴趣的</h3>
+*   <a href="/tools/ddnet玩家搜索器" title="ddnet玩家搜索器" >ddnet玩家搜索器</a>
 *   <a href="/game/Among_us" title="Among us" >Among us</a>  
 *   <a href="/game/%E2%8C%AC_PvP_Arena_%E2%98%81_Online_%E2%98%81_Shooter_%E2%8C%AC" title="⌬_PvP_Arena_☁_Online_☁_Shooter_⌬" >⌬_PvP_Arena_☁_Online_☁_Shooter_⌬</a>点击back选择其他模式
 *   <a href="/game/%E5%A4%A9%E5%A0%82%E8%A7%92%EF%BC%9A%E5%92%96%E5%95%A1%E5%B1%8B" title="天堂角：咖啡屋" >天堂角：咖啡屋</a>
