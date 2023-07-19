@@ -44,6 +44,7 @@
 *   <a href="/game/" title="minesweeper" >好看的</a>  
 
 <h2>计划</h2>
+*   添加小图标
 *   Pie Solar 2 MD2
 *   [CxG1]Mirror jump
 *   CatGPT
