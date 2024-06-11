@@ -1,7 +1,7 @@
 <html lang="zh-CN" color-mode=light>
 <heard>
 <title>Fish的小破站</title>
-<link rel="icon" href="/icon/terminal_sharp_icon.svg">
+<link rel="Shortcut Icon" href="/icon/terminal_sharp_icon.svg">
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -33,14 +33,10 @@
 *   <a href="/game/minesweeper" title="minesweeper" >扫雷</a>  
 *   <a href="https://github.com/Fish-LP/Fish-LP.github.io" title="github" >github仓库</a>  
 *   <a href="/game/Human_Resource_Machine" title="Human_Resource_Machine">Human_Resource_Machine</a>
-*   <a href="/tools/DDNet%E6%9F%A5%E8%AF%A2" title="DDNet查询" >DDNet查询</a>(但是中文，如果玩家不存在会一直加载 <a href="https://ddnet.org/players/" title="DDNet官网查询" >DDNet官网查询</a>)
 *   <a href="https://ddnet.org" title="DDNet官网">DDNet官网</a>
-*   ikun plays basketball(game/ikunn%E6%89%93%E7%AF%AE%E7%90%83)
 
 <h2>#测试地带</h2>
-*   <a href="测试/Home/index.jsx" title="new home">new home</a>
 *   <a href="tools/ws工具.html" title="ws工具">ws工具</a>
-*   <a href="tools/ddnet服务器信息" title="ddnet服务器信息">ddnet服务器信息</a>
 *   <a href="/game/" title="minesweeper" >好看的</a>  
 
 <h2>计划</h2>
